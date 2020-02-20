@@ -6,5 +6,5 @@ Instructions to use Selenium:
 
 <https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72>
 
-Scraped list of sermons can be found in ```Sermon_Scraper/sermons.txt```
+Scraped list of sermons can be found in ```sermon_scraper/sermons.txt```
 
